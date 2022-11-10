@@ -1,0 +1,16 @@
+#root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  padding: 2em 4em;
+}
+li {
+  list-style: none;
+}
+
+ol > li > button {
+  border-bottom-width: 2px;
+  border-color: transparent;
+}

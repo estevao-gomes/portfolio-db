@@ -1,0 +1,17 @@
+[
+  {
+    "id": "cb3a7a80-a1c1-441f-a4e5-a56c33d0cf60",
+    "name": "Usina 0",
+    "garantiaFisica": 17
+  },
+  {
+    "id": "f07d790b-4fea-48f1-9580-710df40b9627",
+    "name": "Usina 1",
+    "garantiaFisica": 4
+  },
+  {
+    "id": "ca6dba3c-bdee-4bbc-ba3b-1f4566fe9b5a",
+    "name": "Usina 2",
+    "garantiaFisica": 12
+  }
+]

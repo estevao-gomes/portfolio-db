@@ -1,0 +1,770 @@
+[
+  {
+    "id": "d5f69530-8208-4b1d-9d19-837f80fe4e0e",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2022-01-01",
+    "resultado_MCP": 0,
+    "resultado_Lastro": 0
+  },
+  {
+    "id": "f276d575-50e0-4254-97b3-8a76fe0bcaa2",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2022-02-01",
+    "resultado_MCP": 0,
+    "resultado_Lastro": 0
+  },
+  {
+    "id": "3b97d9bf-4705-4a08-be67-da530f24ce25",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2022-03-01",
+    "resultado_MCP": 0,
+    "resultado_Lastro": 0
+  },
+  {
+    "id": "06826afb-addc-480b-9dae-c69cc4994a81",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2022-04-01",
+    "resultado_MCP": 0,
+    "resultado_Lastro": 0
+  },
+  {
+    "id": "69d89b42-f142-40d1-a674-ad195a5cf3f7",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2022-05-01",
+    "resultado_MCP": 0,
+    "resultado_Lastro": 0
+  },
+  {
+    "id": "0d91ef29-3c79-48d6-8452-f78438daef0b",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2022-06-01",
+    "resultado_MCP": 0,
+    "resultado_Lastro": 0
+  },
+  {
+    "id": "2aa6ee7d-861c-4235-844c-01bb615e91df",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2022-07-01",
+    "resultado_MCP": 0,
+    "resultado_Lastro": 0
+  },
+  {
+    "id": "6c15bfd6-3554-4c07-8dfb-e9d729d3e413",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2022-08-01",
+    "resultado_MCP": 0,
+    "resultado_Lastro": 0
+  },
+  {
+    "id": "2566397d-f8b2-420f-804e-723909d3d068",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2022-09-01",
+    "resultado_MCP": 0,
+    "resultado_Lastro": 0
+  },
+  {
+    "id": "54fd4910-7ab7-429c-8d07-2f90ec18da12",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2022-10-01",
+    "resultado_MCP": 0,
+    "resultado_Lastro": 0
+  },
+  {
+    "id": "505b0c45-1a21-4cbc-9b55-083b439b4300",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2022-11-01",
+    "resultado_MCP": 0,
+    "resultado_Lastro": 0
+  },
+  {
+    "id": "f9c16df9-b14a-45bb-81fe-7d7d95bb0d9a",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2022-12-01",
+    "resultado_MCP": 0,
+    "resultado_Lastro": 0
+  },
+  {
+    "id": "e7ab4d8d-2cbe-4226-98ec-f29596ab386e",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2023-01-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "a5bcf29d-afe2-435b-a5ea-1e283e879fb5",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2023-02-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "ae10ddbd-92a6-42cb-8428-14aa5782fc8f",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2023-03-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "5b8f4246-8790-4b78-9fc2-2cca0cb4e1ef",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2023-04-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "b7a30f42-0d0a-43ac-bb6e-b8a4888f128c",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2023-05-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "af9280c4-aa90-4760-9b08-0ece86c5eb5d",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2023-06-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "c5b1b74a-4d55-4ec1-9cb8-90fc3973f237",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2023-07-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "b0fba90d-271a-4c95-b8da-063c99e186bf",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2023-08-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "eae0255d-83cf-441e-80cb-f7ff7d0c1dba",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2023-09-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "e29e1c1b-03c7-4f94-895b-cfca6ddc6e84",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2023-10-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "69322f3f-020d-453d-8ce7-1c665d814171",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2023-11-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "f4c5e807-44dc-40b6-8c49-7c29022bd406",
+    "tipo": "balanco",
+    "usina": "Usina 0",
+    "data": "2023-12-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "6d31e205-b1ff-4845-b3f6-31760b96d9d8",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2022-01-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "23cec469-f653-4c36-adae-9250a06fa6a3",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2022-02-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "add08ca4-9acd-4c3b-b77f-45ad9cbb84e9",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2022-03-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "eb4be132-142d-4c9c-a578-0e24ce29375a",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2022-04-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "e44d7d45-56f5-47ab-a1ab-29f81ab76a57",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2022-05-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "5a93466b-4b9f-4bde-8718-5d7e7ec30dc2",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2022-06-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "320c47fc-905e-4e74-8687-f816ddd79030",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2022-07-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "839de430-7707-4fcd-8c81-f2d4e269bdc6",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2022-08-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "5b92e90e-be1c-4de9-9143-1585eecbb84f",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2022-09-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "75d3e785-5793-4f5f-872e-8ffe251abbfc",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2022-10-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "f0de7710-ec3b-4594-83d6-fa380a09d211",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2022-11-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "9100a850-53d9-4382-b30b-a0bf1904de07",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2022-12-01",
+    "resultado_MCP": 1,
+    "resultado_Lastro": 1
+  },
+  {
+    "id": "78be6f0b-bfb1-443d-b19d-a2d076b859ae",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2023-01-01",
+    "resultado_MCP": 2,
+    "resultado_Lastro": 2
+  },
+  {
+    "id": "e710d57e-67d1-4d01-9633-8b2cc846afd3",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2023-02-01",
+    "resultado_MCP": 2,
+    "resultado_Lastro": 2
+  },
+  {
+    "id": "e1ff7fe5-b0a5-4b0d-baa7-1fb6297259fd",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2023-03-01",
+    "resultado_MCP": 2,
+    "resultado_Lastro": 2
+  },
+  {
+    "id": "9f71665a-ab45-452e-ad82-f4607a0cb938",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2023-04-01",
+    "resultado_MCP": 2,
+    "resultado_Lastro": 2
+  },
+  {
+    "id": "8722a4f8-f399-4fcd-9f1b-578255700ad6",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2023-05-01",
+    "resultado_MCP": 2,
+    "resultado_Lastro": 2
+  },
+  {
+    "id": "9ce4c647-f965-4028-8eba-1ab3ba2139c2",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2023-06-01",
+    "resultado_MCP": 2,
+    "resultado_Lastro": 2
+  },
+  {
+    "id": "0d8f89a9-d572-4c1b-9217-2938d67e149f",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2023-07-01",
+    "resultado_MCP": 2,
+    "resultado_Lastro": 2
+  },
+  {
+    "id": "8e770f09-e9a4-4305-a425-c2c9ce906ba6",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2023-08-01",
+    "resultado_MCP": 2,
+    "resultado_Lastro": 2
+  },
+  {
+    "id": "244796c7-103f-4a68-9809-de4573db4af0",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2023-09-01",
+    "resultado_MCP": 2,
+    "resultado_Lastro": 2
+  },
+  {
+    "id": "96fa8956-3106-4365-981b-1eded15838cb",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2023-10-01",
+    "resultado_MCP": 2,
+    "resultado_Lastro": 2
+  },
+  {
+    "id": "c39aba03-64d2-46a7-a7a1-720821fee1a5",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2023-11-01",
+    "resultado_MCP": 2,
+    "resultado_Lastro": 2
+  },
+  {
+    "id": "1e36d775-4032-4b8a-9064-08f144406bcf",
+    "tipo": "balanco",
+    "usina": "Usina 1",
+    "data": "2023-12-01",
+    "resultado_MCP": 2,
+    "resultado_Lastro": 2
+  },
+  {
+    "id": "2335bfeb-81db-49bd-91f7-31f8382683ca",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2022-01-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "3f73e1d3-c4cc-4e31-9533-58a620de4673",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2022-02-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "888ec12d-64f1-43dd-83c7-22c57e054b8d",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2022-03-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "8f8c7fcf-5b34-4bea-9c29-baed17139500",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2022-04-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "9c8a82a9-90c4-4089-9000-5ca0757b21b9",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2022-05-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "54fb3852-68ad-47b8-b912-6536fce067df",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2022-06-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "6afbc1be-c614-4c74-8596-7b795a68d36a",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2022-07-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "f46a49db-8af3-4316-91dd-6faf64abe9d1",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2022-08-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "5ab76352-98bd-406f-a3c0-9970b46388c9",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2022-09-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "603e5309-48a9-4991-8a8e-cab3745f158d",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2022-10-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "460badb1-de18-4d61-bfbc-a740b7d1cfbc",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2022-11-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "83ae6d0a-8d13-4d60-83c4-8d8d9aefcdca",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2022-12-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "ba482cea-db75-4055-af9d-9ef3d9ddac09",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2023-01-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "f079aec7-f9eb-401a-bf74-20b9114d4d5c",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2023-02-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "ea7e2cab-9426-442f-8f5b-afeefb2d9e8b",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2023-03-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "c1d9ddc6-75ae-43a0-b3e9-b4bc93002a4b",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2023-04-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "2b9c6a98-9b2a-4ee6-a44f-c1f3016e5a43",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2023-05-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "768e7a95-1aaa-4313-b387-1cf53294b543",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2023-06-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "0f4212a6-e8f6-474d-b2d9-1df0572e5f92",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2023-07-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "a31d0dd3-dc0e-45e4-bc65-ea45a0622d1f",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2023-08-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "a0368157-62b6-411c-9928-a0074f05e468",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2023-09-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "fa47b5e9-4807-4867-92f6-63d322f7987a",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2023-10-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "eaeb2feb-48d0-4ad1-962e-e3c7ded838ac",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2023-11-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "354455f1-16ab-49c1-ab90-952b83621aec",
+    "tipo": "recurso",
+    "usina": "Usina 0",
+    "data": "2023-12-01",
+    "resultado_MCP": 17,
+    "resultado_Lastro": 17
+  },
+  {
+    "id": "d9a66545-0576-4854-8911-476a8f89c834",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2022-01-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "b2564643-4f24-4f5e-a4f1-7b629c572a1e",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2022-02-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "f7b5beea-a2da-4c00-bfee-db9a8c259d32",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2022-03-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "5c04d522-eb10-4084-8ea3-9d7c00c33624",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2022-04-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "d292dcb0-6707-4ac5-9fab-90267ff8df2e",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2022-05-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "c1f9e122-3315-45d7-9a26-7a44f4540c55",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2022-06-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "8e706352-12f6-4ab0-8789-3ccb02fb9c3d",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2022-07-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "16d28d41-a982-4db6-a0d2-82b328ff6890",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2022-08-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "27030cf2-16af-4a52-b5ad-41168464cc08",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2022-09-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "7ce09c3e-052e-41a8-8c14-c4735d820966",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2022-10-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "794354b9-4e1b-40be-bb48-8d373d698134",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2022-11-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "aeb48ee9-e333-4046-988f-e97a09c06570",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2022-12-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "3802f17d-401f-43b6-a006-3dd222a8ada4",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2023-01-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "bbe4c8c5-e42a-42c5-abf0-0d054102635e",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2023-02-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "9861e4e0-a65d-4f39-9e7a-8b2a66a65ff9",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2023-03-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "517c110c-bc2d-4d4d-811d-afdfd19f26c0",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2023-04-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "cfae5395-85c0-41ca-be3f-9f2ca3deb051",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2023-05-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "1608c5ae-296a-457b-8e7c-bc5c0d93c19b",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2023-06-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "a3c671a3-8146-492f-bc01-692fd168e3a9",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2023-07-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "3f30d6a8-98f2-45f0-a0fc-a4dcc14b0e1b",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2023-08-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "11babf15-714b-41bb-adee-ee7052fc5d14",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2023-09-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "bea8d040-9f4e-45c2-b298-2e361b7daf0e",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2023-10-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "4707645d-1201-441a-a297-4a3f79971789",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2023-11-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  },
+  {
+    "id": "383c5c7c-2355-45d5-b1d9-1702de95b8e8",
+    "tipo": "recurso",
+    "usina": "Usina 1",
+    "data": "2023-12-01",
+    "resultado_MCP": 4,
+    "resultado_Lastro": 4
+  }
+]
